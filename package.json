@@ -1,0 +1,16 @@
+{
+  "name": "password-protector",
+  "version": "1.0.0",
+  "description": "hi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "furqan",
+  "license": "ISC",
+  "dependencies": {
+    "node-persist": "0.0.6",
+    "yargs": "^3.15.0"
+  }
+}
